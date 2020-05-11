@@ -1,0 +1,69 @@
+2020-05-11 12:43:37,827  INFO [main] nopcommerce:64 - ********* Launching browser***************
+2020-05-11 12:43:37,864  INFO [main] nopcommerce:70 - ********* Opening URL***************
+2020-05-11 12:43:42,690  INFO [main] nopcommerce:78 - ********* Proving user info ***************
+2020-05-11 13:06:14,012  INFO [main] nopcommerce:64 - ********* Launching browser***************
+2020-05-11 13:06:14,075  INFO [main] nopcommerce:70 - ********* Opening URL***************
+2020-05-11 13:06:21,195  INFO [main] nopcommerce:78 - ********* Proving user info ***************
+2020-05-11 13:06:27,180  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:06:27,298  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:17:39,101  INFO [main] nopcommerce:64 - ********* Launching browser***************
+2020-05-11 13:17:39,302  INFO [main] nopcommerce:70 - ********* Opening URL***************
+2020-05-11 13:17:44,892  INFO [main] nopcommerce:78 - ********* Proving user info ***************
+2020-05-11 13:17:50,642  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:17:50,794  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:17:55,812  INFO [main] nopcommerce:109 - *********Logout from application***************
+2020-05-11 13:17:57,274  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:17:57,363  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:22:27,846  INFO [main] nopcommerce:64 - ********* Launching browser***************
+2020-05-11 13:22:28,142  INFO [main] nopcommerce:70 - ********* Opening URL***************
+2020-05-11 13:22:34,498  INFO [main] nopcommerce:78 - ********* Proving user info ***************
+2020-05-11 13:22:40,412  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:22:40,535  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:22:45,547  INFO [main] nopcommerce:109 - *********Logout from application***************
+2020-05-11 13:22:46,932  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:22:47,017  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:24:17,342  INFO [main] nopcommerce:64 - ********* Launching browser***************
+2020-05-11 13:24:17,382  INFO [main] nopcommerce:70 - ********* Opening URL***************
+2020-05-11 13:24:34,699  INFO [main] nopcommerce:78 - ********* Proving user info ***************
+2020-05-11 13:24:40,310  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:24:40,442  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:24:45,458  INFO [main] nopcommerce:109 - *********Logout from application***************
+2020-05-11 13:24:46,854  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:24:46,945  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:24:51,973  INFO [main] nopcommerce:115 - *********Closing application ***************
+2020-05-11 13:27:54,842  INFO [main] nopcommerce:64 - ********* Launching browser***************
+2020-05-11 13:27:54,879  INFO [main] nopcommerce:70 - ********* Opening URL***************
+2020-05-11 13:28:00,325  INFO [main] nopcommerce:78 - ********* Proving user info ***************
+2020-05-11 13:28:06,048  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:28:06,188  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:28:11,203  INFO [main] nopcommerce:109 - *********Logout from application***************
+2020-05-11 13:28:12,589  INFO [main] nopcommerce:92 - *********Login Validation starts ***************
+2020-05-11 13:28:12,682  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2020-05-11 13:28:17,688  INFO [main] nopcommerce:115 - *********Closing application ***************
+2020-05-11 13:58:14,522  INFO [main] nopcommerce:61 - ********* Launching browser***************
+2020-05-11 13:58:14,574  INFO [main] nopcommerce:67 - ********* Opening URL***************
+2020-05-11 13:58:21,247  INFO [main] nopcommerce:75 - ********* Proving user info ***************
+2020-05-11 13:58:27,122  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2020-05-11 13:58:27,145  INFO [main] nopcommerce:94 - *********Login Failed ***************
+2020-05-11 13:58:28,194  INFO [main] nopcommerce:98 - Screent sort name is loginTest53623
+2020-05-11 14:10:31,535  INFO [main] nopcommerce:61 - ********* Launching browser***************
+2020-05-11 14:10:31,574  INFO [main] nopcommerce:67 - ********* Opening URL***************
+2020-05-11 14:10:37,397  INFO [main] nopcommerce:75 - ********* Proving user info ***************
+2020-05-11 14:10:43,008  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2020-05-11 14:10:43,015  INFO [main] nopcommerce:94 - *********Login Failed ***************
+2020-05-11 14:10:43,335  INFO [main] nopcommerce:98 - Screent sort name is loginTest17605
+2020-05-11 14:10:52,186  INFO [main] nopcommerce:61 - ********* Launching browser***************
+2020-05-11 14:10:52,189  INFO [main] nopcommerce:67 - ********* Opening URL***************
+2020-05-11 14:10:57,406  INFO [main] nopcommerce:75 - ********* Proving user info ***************
+2020-05-11 14:11:03,170  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2020-05-11 14:11:03,188  INFO [main] nopcommerce:91 - *********Login successfull ***************
+2020-05-11 14:11:08,197  INFO [main] nopcommerce:108 - *********Logout from application***************
+2020-05-11 14:11:09,616  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2020-05-11 14:11:09,637  INFO [main] nopcommerce:91 - *********Login successfull ***************
+2020-05-11 14:11:14,645  INFO [main] nopcommerce:114 - *********Closing application ***************
+2020-05-11 14:11:19,293  INFO [main] nopcommerce:61 - ********* Launching browser***************
+2020-05-11 14:11:19,298  INFO [main] nopcommerce:67 - ********* Opening URL***************
+2020-05-11 14:11:24,788  INFO [main] nopcommerce:75 - ********* Proving user info ***************
+2020-05-11 14:11:30,438  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2020-05-11 14:11:30,447  INFO [main] nopcommerce:94 - *********Login Failed ***************
+2020-05-11 14:11:30,782  INFO [main] nopcommerce:98 - Screent sort name is loginTest84523
