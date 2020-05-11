@@ -28,20 +28,8 @@ Feature: Login
       | vikashkumar1@gmail.com  			| vikashkumar   |
       | vikashkumargupta5a7@gmail.com |	vikas    			|
       | 				 											| vikash1			  |
-      | vikashkumargupta5a7@gmail.com | vikash1    		|
-      | vikashkumargupta5a7@gmail.com | 				   		|
-     
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+   
       
       
       

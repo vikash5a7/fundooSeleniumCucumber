@@ -22,12 +22,24 @@ public class UtilClass {
 	}
 
 	
+	/**
+	 * This is for generating random number
+	 * @param number
+	 * @return return random number
+	 */
+	
 	public static String randomestring(int number)
 	{
 		String generatedstring=RandomStringUtils.randomAlphabetic(number);
 		return(generatedstring);
 	}
 	
+
+	/**
+	 * This is for generating random String
+	 * @param number
+	 * @return return random String with size of given number
+	 */
 	public static String randomeNum(int number) {
 		String generatedString2 = RandomStringUtils.randomNumeric(number);
 		return (generatedString2);

@@ -6,13 +6,11 @@ import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import pageObjects.LoginPage;
+import pageObjects.SignUpPage;
 import utility.UtilClass;
 
 import java.io.FileInputStream;
@@ -60,6 +58,7 @@ public class Steps extends BaseClass {
 
 		logger.info("********* Launching browser***************");
 		lp = new LoginPage(driver);
+		signup = new SignUpPage(driver);
 	}
 
 	@When("User opens URL {string}")
@@ -92,7 +91,7 @@ public class Steps extends BaseClass {
 			Assert.assertEquals(exptitle, driver.getTitle());
 		} else {
 			logger.info("*********Login Failed ***************");
-			
+
 			String ScreenSortName = "loginTest" + UtilClass.randomeNum(5);
 			UtilClass.takeSnapShot(driver, ScreenSortName);
 			logger.info("Screent sort name is " + ScreenSortName);
@@ -115,4 +114,61 @@ public class Steps extends BaseClass {
 		driver.quit();
 	}
 
+	@Then("user click on registration button")
+	public void user_click_on_registration_button() {
+		logger.info("********* Clicking on the registration button ***************");
+		signup.registrationBtn();
+	}
+
+	@Then("User enters first name as {string} and last name as {string}")
+	public void user_enters_first_name_as_and_last_name_as(String userFname, String userLastName) {
+		logger.info("********* Proving user info ***************");
+		signup.setFirstName(userFname);
+		signup.setLastName(userLastName);
+		logger.info("********* Proving user fist name and last name ***************");
+	}
+
+	@Then("user enter email as {string}")
+	public void user_enter_email_as(String userEmail) {
+		logger.info("********* Proving user email address ***************");
+		signup.setEmail(userEmail);
+	}
+
+	@Then("enter user his password as {string} and confimation password as {string}")
+	public void enter_user_his_password_as_and_confimation_password(String password, String ConfimationPassword) {
+		signup.SetPassword(password);
+		signup.setConfirmationPassword(ConfimationPassword);
+	}
+
+	@Then("User should enter his phone number as {string}")
+	public void user_should_enter_his_phone_number_as(String string) {
+		signup.setUserPhoneNumber(string);
+	}
+
+	@Then("User Click on sumbmit button")
+	public void user_Click_on_sumbmit_button() throws Exception {
+		String captureScreenSortName = "Registration" + UtilClass.randomeNum(9);
+		Thread.sleep(5000);
+		if (signup.isDisabledBtn()) {
+			signup.clickOnSubmitBtn();
+			logger.info("Clicking on submit button");
+			Thread.sleep(5000);
+			boolean res = driver.getPageSource().contains("registration successfull");
+			if (res == true) {
+				Assert.assertTrue(true);
+				logger.info("test case passed....");
+			} else {
+				logger.info("test case failed....");
+				UtilClass.takeSnapShot(driver, captureScreenSortName);
+				logger.info("Capture Screen sort name is" + captureScreenSortName);
+				Assert.assertTrue(false);
+			}
+		} else {
+			logger.info("test case failed....");
+			UtilClass.takeSnapShot(driver, captureScreenSortName);
+			logger.info("Capture Screen sort name is" + captureScreenSortName);
+			driver.close();
+			Assert.assertTrue(false);
+		}
+	}
 }

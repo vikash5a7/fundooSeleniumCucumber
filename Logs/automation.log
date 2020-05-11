@@ -67,3 +67,226 @@
 2020-05-11 14:11:30,438  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
 2020-05-11 14:11:30,447  INFO [main] nopcommerce:94 - *********Login Failed ***************
 2020-05-11 14:11:30,782  INFO [main] nopcommerce:98 - Screent sort name is loginTest84523
+2020-05-11 14:45:10,206  INFO [main] Fundoo Notes:61 - ********* Launching browser***************
+2020-05-11 14:45:10,252  INFO [main] Fundoo Notes:67 - ********* Opening URL***************
+2020-05-11 15:17:29,631  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:17:29,683  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:17:36,717  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:17:37,148  INFO [main] Fundoo Notes:126 - ********* Proving user info ***************
+2020-05-11 15:17:37,666  INFO [main] Fundoo Notes:129 - ********* Proving user fist name and last name ***************
+2020-05-11 15:17:37,667  INFO [main] Fundoo Notes:134 - ********* Proving user email address ***************
+2020-05-11 15:21:09,305  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:21:09,351  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:21:15,563  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:21:15,798  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:21:16,183  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:21:16,184  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:21:17,610  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:21:18,024  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration057440564
+2020-05-11 15:23:02,846  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:23:02,902  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:23:08,766  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:23:08,987  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:23:09,396  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:23:09,397  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:23:10,479  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:23:11,008  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration692133936
+2020-05-11 15:34:50,542  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:34:50,592  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:34:57,047  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:34:57,356  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:34:58,028  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:34:58,029  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:34:59,378  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:34:59,733  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration025583529
+2020-05-11 15:35:03,922  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:35:03,924  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:35:09,863  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:35:10,118  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:35:10,610  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:35:10,611  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:35:11,806  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:35:12,174  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration470739368
+2020-05-11 15:35:16,786  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:35:16,788  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:35:22,772  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:35:23,040  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:35:23,495  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:35:23,496  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:35:24,698  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:35:25,084  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration275117754
+2020-05-11 15:35:29,703  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:35:29,705  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:35:38,826  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:35:39,177  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:35:39,793  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:35:39,910  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:35:40,776  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:35:41,124  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration842281888
+2020-05-11 15:35:45,054  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:35:45,056  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:35:58,098  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:35:58,571  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:35:59,147  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:35:59,148  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:36:00,736  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:36:01,228  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration673505450
+2020-05-11 15:36:06,454  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:36:06,456  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:36:16,360  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:36:16,723  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:36:17,476  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:36:17,477  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:36:18,519  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:36:18,909  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration840480542
+2020-05-11 15:36:30,427  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:36:30,429  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:36:41,637  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:36:41,832  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:36:42,273  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:36:42,278  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:36:43,307  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:36:43,648  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration112964238
+2020-05-11 15:39:41,462  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:39:41,523  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:39:47,273  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:39:47,562  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:39:48,232  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:39:48,234  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:39:49,447  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:39:49,809  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration484838224
+2020-05-11 15:39:57,938  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:39:57,941  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:40:03,689  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:40:03,906  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:40:04,267  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:40:04,268  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:40:05,683  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:40:06,005  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration725258361
+2020-05-11 15:40:13,927  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:40:13,929  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:40:19,592  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:40:19,836  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:40:20,205  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:40:20,206  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:40:21,162  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:40:21,526  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration197913880
+2020-05-11 15:40:31,314  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:40:31,318  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:40:36,693  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:40:36,876  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:40:37,256  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:40:37,257  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:40:38,272  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:40:38,579  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration149947245
+2020-05-11 15:40:42,713  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:40:42,716  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:40:48,063  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:40:48,242  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:40:48,639  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:40:48,641  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:40:49,470  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:40:49,847  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration517457543
+2020-05-11 15:40:58,012  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:40:58,014  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:41:03,365  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:41:03,582  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:41:04,045  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:41:04,046  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:41:05,166  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:41:05,701  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration375556412
+2020-05-11 15:41:14,274  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:41:14,278  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:41:21,079  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:41:21,311  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:41:21,846  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:41:21,847  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:41:22,966  INFO [main] Fundoo Notes:166 - test case failed....
+2020-05-11 15:41:24,499  INFO [main] Fundoo Notes:168 - Capture Screen sort name isRegistration247045362
+2020-05-11 15:46:41,580  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:46:41,629  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:46:47,433  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:46:47,663  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:46:48,223  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:46:48,225  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:46:54,723  INFO [main] Fundoo Notes:165 - test case failed....
+2020-05-11 15:46:55,059  INFO [main] Fundoo Notes:167 - Capture Screen sort name isRegistration658948204
+2020-05-11 15:52:34,802  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:52:34,885  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:52:43,777  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:52:44,020  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:52:45,027  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:52:45,028  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:52:51,649  INFO [main] Fundoo Notes:154 - Clicking on submit button
+2020-05-11 15:52:51,723  INFO [main] Fundoo Notes:160 - test case failed....
+2020-05-11 15:52:52,107  INFO [main] Fundoo Notes:162 - Capture Screen sort name isRegistration383809645
+2020-05-11 15:54:24,085  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:54:24,129  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:54:30,085  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:54:30,305  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:54:30,905  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:54:30,907  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:54:37,255  INFO [main] Fundoo Notes:154 - Clicking on submit button
+2020-05-11 15:54:42,354  INFO [main] Fundoo Notes:161 - test case failed....
+2020-05-11 15:54:42,715  INFO [main] Fundoo Notes:163 - Capture Screen sort name isRegistration333218596
+2020-05-11 15:56:24,965  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:56:25,013  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:56:30,846  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:56:31,060  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:56:31,495  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:56:31,496  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:56:38,121  INFO [main] Fundoo Notes:154 - Clicking on submit button
+2020-05-11 15:56:43,206  INFO [main] Fundoo Notes:161 - test case failed....
+2020-05-11 15:56:43,575  INFO [main] Fundoo Notes:163 - Capture Screen sort name isRegistration026140508
+2020-05-11 15:57:36,249  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:57:36,305  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:57:42,900  INFO [main] Fundoo Notes:119 - ********* Clicking on the registration button ***************
+2020-05-11 15:57:43,088  INFO [main] Fundoo Notes:125 - ********* Proving user info ***************
+2020-05-11 15:57:43,545  INFO [main] Fundoo Notes:128 - ********* Proving user fist name and last name ***************
+2020-05-11 15:57:43,547  INFO [main] Fundoo Notes:133 - ********* Proving user email address ***************
+2020-05-11 15:57:49,656  INFO [main] Fundoo Notes:154 - Clicking on submit button
+2020-05-11 15:57:54,744  INFO [main] Fundoo Notes:159 - test case passed....
+2020-05-11 15:57:54,746  INFO [main] Fundoo Notes:113 - *********Closing application ***************
+2020-05-11 15:59:24,286  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:59:24,334  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:59:34,424  INFO [main] Fundoo Notes:74 - ********* Proving user info ***************
+2020-05-11 15:59:40,435  INFO [main] Fundoo Notes:87 - *********Login Validation starts ***************
+2020-05-11 15:59:40,442  INFO [main] Fundoo Notes:93 - *********Login Failed ***************
+2020-05-11 15:59:40,937  INFO [main] Fundoo Notes:97 - Screent sort name is loginTest54290
+2020-05-11 15:59:51,045  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 15:59:51,050  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 15:59:58,189  INFO [main] Fundoo Notes:74 - ********* Proving user info ***************
+2020-05-11 16:00:03,823  INFO [main] Fundoo Notes:87 - *********Login Validation starts ***************
+2020-05-11 16:00:03,843  INFO [main] Fundoo Notes:90 - *********Login successfull ***************
+2020-05-11 16:00:08,850  INFO [main] Fundoo Notes:107 - *********Logout from application***************
+2020-05-11 16:00:10,238  INFO [main] Fundoo Notes:87 - *********Login Validation starts ***************
+2020-05-11 16:00:10,254  INFO [main] Fundoo Notes:90 - *********Login successfull ***************
+2020-05-11 16:00:15,265  INFO [main] Fundoo Notes:113 - *********Closing application ***************
+2020-05-11 16:00:20,374  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 16:00:20,378  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 16:00:27,464  INFO [main] Fundoo Notes:74 - ********* Proving user info ***************
+2020-05-11 16:00:33,313  INFO [main] Fundoo Notes:87 - *********Login Validation starts ***************
+2020-05-11 16:00:33,319  INFO [main] Fundoo Notes:93 - *********Login Failed ***************
+2020-05-11 16:00:34,036  INFO [main] Fundoo Notes:97 - Screent sort name is loginTest88344
+2020-05-11 16:00:46,754  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 16:00:46,756  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 16:00:55,647  INFO [main] Fundoo Notes:74 - ********* Proving user info ***************
+2020-05-11 16:01:01,314  INFO [main] Fundoo Notes:87 - *********Login Validation starts ***************
+2020-05-11 16:01:01,324  INFO [main] Fundoo Notes:93 - *********Login Failed ***************
+2020-05-11 16:01:01,640  INFO [main] Fundoo Notes:97 - Screent sort name is loginTest66412
+2020-05-11 16:01:11,869  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 16:01:11,870  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 16:01:18,837  INFO [main] Fundoo Notes:74 - ********* Proving user info ***************
+2020-05-11 16:01:24,431  INFO [main] Fundoo Notes:87 - *********Login Validation starts ***************
+2020-05-11 16:01:24,443  INFO [main] Fundoo Notes:93 - *********Login Failed ***************
+2020-05-11 16:01:24,749  INFO [main] Fundoo Notes:97 - Screent sort name is loginTest12473
+2020-05-11 16:01:33,924  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 16:01:33,925  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 16:01:41,270  INFO [main] Fundoo Notes:74 - ********* Proving user info ***************
+2020-05-11 16:01:47,653  INFO [main] Fundoo Notes:87 - *********Login Validation starts ***************
+2020-05-11 16:01:52,591  INFO [main] Fundoo Notes:59 - ********* Launching browser***************
+2020-05-11 16:01:52,593  INFO [main] Fundoo Notes:66 - ********* Opening URL***************
+2020-05-11 16:02:00,725  INFO [main] Fundoo Notes:74 - ********* Proving user info ***************
+2020-05-11 16:02:06,427  INFO [main] Fundoo Notes:87 - *********Login Validation starts ***************
+2020-05-11 16:02:06,438  INFO [main] Fundoo Notes:93 - *********Login Failed ***************
+2020-05-11 16:02:06,786  INFO [main] Fundoo Notes:97 - Screent sort name is loginTest91231
